@@ -19,7 +19,7 @@ function App() {
             <Redirect to='/home' />
           </Route>
           
-          <Route path='/bot_market/' exact>
+          <Route path='/bot_market' exact>
             <Redirect to='/home' />
           </Route>
 
